@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0dy1999
 - 👀 I’m interested in developing utilities for games 
 - 🌱 I’m currently learning java and python 
-- 💞️ I’m looking to collaborate on nothing for now
+- 💞️ I’m looking to collaborate on toolbox cracked (a modified version of tobox for mcpe) 
 - 📫 How to reach me on discord: @cody1999. 
 - 😄 Pronouns: he/him
